@@ -1,0 +1,28 @@
+body
+{
+	background:linear-gradient(to right, rgb(150, 255, 215), rgb(208, 239, 251)); 
+}
+h1
+{
+	color:#4CAF50;
+}
+button
+{
+	 background-color: #4CAF50; /* Green */
+	 border-radius: 8px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 8px;
+    margin:10px 10px;
+    transition: 0.25s;
+}
+
+
+button:hover
+{
+	transform: scale(1.1);
+}
